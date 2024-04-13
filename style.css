@@ -167,20 +167,20 @@ body {
 
  .rmanagement {
   text-align: left;
-  line-height: normal;}
+  line-height: 20px;}
 .programming{
-  line-height: normal;
+  line-height: 20px;
   text-align: left;
 }
 .instrumentation {
-  line-height: normal;
+  line-height: 20px;
   text-align: left;
 }
 .electrical{
-  line-height: normal;
+  line-height:20px;
   text-align: left;
 }
 .bartending{
-  line-height: normal;
+  line-height: 20px;
   text-align: left;
 }
