@@ -1,0 +1,46 @@
+.header {
+    background-image: url(./pexels-pixabay-270366.jpg);
+    height: 400px;
+    width: 99vw;
+    background-position: center center;}
+.strengths {
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px; 
+    background-color: #FFFFFF;
+    width: 75%;
+    border-radius: 50px;
+    align-self: center;
+        }
+ .strengths p {
+     color: #938E89;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+          }
+
+.spectrum div {
+    font: inherit;
+    padding: 0 20px;
+    color: #c92222;
+    display: inline-block;
+    line-height: 24px;
+     }
+     h1 {
+        color: rgb(227, 227, 227);
+        font-family:  "Nunito Sans", sans-serif;
+        font-size: 80px;
+        line-height: 76px;
+        margin: 0;
+        position: relative;
+        text-align: center;
+        top: 20%;
+        font-weight: bold;}
+    h2 {
+        color: #d57622;
+        font-family: 'Raleway', sans-serif;
+        font-size: 28px;
+        font-weight: 780;
+        text-align: left;
+        text-transform: uppercase;
