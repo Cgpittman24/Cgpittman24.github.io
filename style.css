@@ -166,16 +166,21 @@ body {
  }
 
  .rmanagement {
-  text-align: left;}
+  text-align: left;
+  line-height: normal;}
 .programming{
+  line-height: normal;
   text-align: left;
 }
 .instrumentation {
+  line-height: normal;
   text-align: left;
 }
 .electrical{
+  line-height: normal;
   text-align: left;
 }
 .bartending{
+  line-height: normal;
   text-align: left;
 }
