@@ -43,13 +43,14 @@ body {
     color: #FFFFFF;
     opacity: 1;
    line-height: 24px;
-   display: inline-block;
+   display: block;
    width: 73vw;
+   white-space: nowrap;
   }
 
   .spectrum p {
     color: #FFFFFF;
-    text-align: right;
+
   }
 
   /* Roast types */
