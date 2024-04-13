@@ -43,7 +43,7 @@ body {
     color: #FFFFFF;
     opacity: 1;
    line-height: 48px;
-   display: block;
+   display: inline-block;
    width: 73vw;
    
   }
