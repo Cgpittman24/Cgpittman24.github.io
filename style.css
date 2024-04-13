@@ -161,7 +161,7 @@ body {
     text-align: center;
   }
  .spectrum {
-    display:inline-block
+    display:grid
     width: 60vw ;
  }
 
