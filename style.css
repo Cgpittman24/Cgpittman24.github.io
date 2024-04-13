@@ -1,0 +1,194 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #8b1d1d;
+    /* Old browsers */
+    background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #F7F7F7 0%, #b27636 100%);
+  }
+
+  /** Header styles **/
+  .header {
+    background-image: url(./pexels-pixabay-270366.jpg);
+    height: 400px;
+    width: 99vw;
+    background-position: center center;
+  }
+
+  .strengths {
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    background-color: #FFFFFF;
+    overflow: auto;
+    width: 75%;
+    border-radius: 50px;
+    align-self: center;
+  }
+
+  .strengths p {
+    color: #938E89;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .spectrum div {
+    font: inherit;
+    padding: 0 20px;
+    color: #FFFFFF;
+    opacity: 1;
+   line-height: 48px;
+   display: inline-block;
+   width: 73vw;
+   overflow: auto;
+   
+  }
+
+  .spectrum p {
+    color: #FFFFFF;
+
+  }
+
+  /* Roast types */
+  .programming {
+    background-color: rgb(169, 148, 10);
+  }
+
+  .instrumentation {
+    background-color: rgb(181, 181, 17);
+  }
+
+  .electrical {
+    background-color: saddlebrown;
+  }
+
+  .rmanagement {
+    background-color: rgba(193, 52, 9, 0.959);
+  }
+
+  .bartending {
+    background-color: black;
+  }
+
+  /* Typography */
+  h1 {
+    color: rgb(227, 227, 227);
+    font-family:  "Nunito Sans", sans-serif;
+    font-size: 100px;
+    line-height: 76px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    top: 20%;
+    font-weight: bold;
+    overflow: auto;
+  }
+
+  h2 {
+    color: #d57622;
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 780;
+    text-align: left;
+    text-transform: uppercase;
+
+  }
+
+  h3 {
+    color: #41292C;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+
+  }
+
+  h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: .80em;
+  }
+
+  h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: .80em;
+    font-weight: 500;
+  }
+
+  /* Page elements */
+  ul {
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
+    display:inline-block;
+  }
+
+  li {
+    border-bottom: 2px solid darkslategray;
+    list-style: none;
+    margin: 100px 0px;
+    padding-bottom: 60px;
+  }
+
+  p {
+    color: #444444;
+    line-height: 32px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+  }
+
+  a {
+    color: #214E34;
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+  }
+  aside h2 {
+    margin: auto;
+    font-weight: bolder;
+    color : black;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+ .spectrum {
+    display: inline-block;
+    width: 60vw ;
+ }
+
+ .rmanagement {
+  text-align: left;
+  
+ 
+  
+  
+.programming{
+  
+  text-align: left;
+ 
+  
+}
+.instrumentation {
+  
+  text-align: left;
+}
+.electrical{
+  text-align: left;
+  
+  
+}
+.bartending{
+  text-align: left;
+
+}
